@@ -1,0 +1,14 @@
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\bin\Debug\net9.0\Sistema de Lanchonete.exe
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\bin\Debug\net9.0\Sistema de Lanchonete.deps.json
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\bin\Debug\net9.0\Sistema de Lanchonete.runtimeconfig.json
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\bin\Debug\net9.0\Sistema de Lanchonete.dll
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\bin\Debug\net9.0\Sistema de Lanchonete.pdb
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.AssemblyInfoInputs.cache
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.AssemblyInfo.cs
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.dll
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\refint\Sistema de Lanchonete.dll
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.pdb
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\Sistema de Lanchonete.genruntimeconfig.cache
+C:\Users\guigu\OneDrive\Área de Trabalho\Projeto Lanchonete TOTVS\Sistema de Lanchonete\obj\Debug\net9.0\ref\Sistema de Lanchonete.dll
